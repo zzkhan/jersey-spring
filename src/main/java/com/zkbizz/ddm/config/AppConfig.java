@@ -21,16 +21,6 @@ import javax.enterprise.inject.Default;
 public class AppConfig {
       Environment environment;
 
-//    @Inject
-//    @Speedy
-//    TransactionBo speedyTransactionBo;
-
-//    @Bean
-//    public PaymentResource paymentService(){
-//        System.out.println("creating PaymentResource from App Config");
-//        return new PaymentResource(speedyTransactionBo);
-//    }
-
     @Bean
     TransactionBo transactionBo(){
         System.out.println("creating DefaultTransactionBo from App Config");
