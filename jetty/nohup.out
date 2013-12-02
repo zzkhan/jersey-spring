@@ -1,0 +1,196 @@
+Starting Jetty: STARTED Jetty Tue 30 Oct 2012 23:43:02 GMT
+2012-10-30 23:43:02.584:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/RestService/service/jetty/logs/2012_10_30.stderrout.log
+Starting Jetty: STARTED Jetty Tue 30 Oct 2012 23:46:46 GMT
+2012-10-30 23:46:46.465:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/RestService/service/jetty/logs/2012_10_30.stderrout.log
+Starting Jetty: STARTED Jetty Wed 31 Oct 2012 00:04:43 GMT
+2012-10-31 00:04:43.806:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/RestService/service/jetty/logs/2012_10_31.stderrout.log
+Starting Jetty: STARTED Jetty Wed 31 Oct 2012 00:05:19 GMT
+2012-10-31 00:05:19.702:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/RestService/service/jetty/logs/2012_10_31.stderrout.log
+Starting Jetty: STARTED Jetty Wed 31 Oct 2012 00:06:36 GMT
+2012-10-31 00:06:36.607:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/RestService/service/jetty/logs/2012_10_31.stderrout.log
+Starting Jetty: STARTED Jetty Wed 31 Oct 2012 00:08:51 GMT
+2012-10-31 00:08:51.849:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/RestService/service/jetty/logs/2012_10_31.stderrout.log
+Starting Jetty: STARTED Jetty Wed 31 Oct 2012 00:10:59 GMT
+2012-10-31 00:10:59.776:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/RestService/service/jetty/logs/2012_10_31.stderrout.log
+Starting Jetty: STARTED Jetty Wed 31 Oct 2012 00:12:27 GMT
+2012-10-31 00:12:27.603:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/RestService/service/jetty/logs/2012_10_31.stderrout.log
+Starting Jetty: STARTED Jetty Wed 17 Apr 2013 18:56:30 BST
+2013-04-17 18:56:30.802:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/RestService/service/jetty/logs/2013_04_17.stderrout.log
+Starting Jetty: STARTED Jetty Wed 17 Apr 2013 18:58:12 BST
+2013-04-17 18:58:12.600:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/RestService/service/jetty/logs/2013_04_17.stderrout.log
+Starting Jetty: STARTED Jetty Wed 17 Apr 2013 19:00:28 BST
+2013-04-17 19:00:29.260:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/RestService/service/jetty/logs/2013_04_17.stderrout.log
+Starting Jetty: STARTED Jetty Wed 17 Apr 2013 19:02:45 BST
+2013-04-17 19:02:46.164:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/RestService/service/jetty/logs/2013_04_17.stderrout.log
+nohup: ./bin/startup.sh: No such file or directory
+nohup: ./bin/startup.sh: No such file or directory
+Starting Jetty: STARTED Jetty Wed 17 Apr 2013 19:21:47 BST
+2013-04-17 19:21:48.051:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/RestService/service/jetty/logs/2013_04_17.stderrout.log
+Starting Jetty: STARTED Jetty Sun 24 Nov 2013 02:20:33 GMT
+2013-11-24 02:20:34.089:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_24.stderrout.log
+Starting Jetty: STARTED Jetty Sun 24 Nov 2013 02:23:58 GMT
+2013-11-24 02:23:58.766:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_24.stderrout.log
+Starting Jetty: STARTED Jetty Sun 24 Nov 2013 02:26:06 GMT
+2013-11-24 02:26:06.535:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_24.stderrout.log
+Starting Jetty: STARTED Jetty Sun 24 Nov 2013 02:30:57 GMT
+2013-11-24 02:30:58.001:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_24.stderrout.log
+Starting Jetty: STARTED Jetty Sun 24 Nov 2013 15:32:26 GMT
+2013-11-24 15:32:26.562:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_24.stderrout.log
+Starting Jetty: STARTED Jetty Sun 24 Nov 2013 15:43:49 GMT
+2013-11-24 15:43:49.643:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_24.stderrout.log
+Starting Jetty: STARTED Jetty Sun 24 Nov 2013 17:45:44 GMT
+2013-11-24 17:45:44.650:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_24.stderrout.log
+Starting Jetty: STARTED Jetty Sun 24 Nov 2013 18:03:19 GMT
+2013-11-24 18:03:19.742:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_24.stderrout.log
+Starting Jetty: STARTED Jetty Sun 24 Nov 2013 18:06:18 GMT
+2013-11-24 18:06:18.645:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_24.stderrout.log
+Starting Jetty: STARTED Jetty Sun 24 Nov 2013 18:08:51 GMT
+2013-11-24 18:08:52.893:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_24.stderrout.log
+Starting Jetty: STARTED Jetty Sun 24 Nov 2013 18:11:20 GMT
+2013-11-24 18:11:21.657:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_24.stderrout.log
+Starting Jetty: STARTED Jetty Sun 24 Nov 2013 18:14:36 GMT
+2013-11-24 18:14:37.514:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_24.stderrout.log
+Starting Jetty: STARTED Jetty Sun 24 Nov 2013 18:30:14 GMT
+2013-11-24 18:30:14.853:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_24.stderrout.log
+Starting Jetty: STARTED Jetty Sun 24 Nov 2013 18:33:42 GMT
+2013-11-24 18:33:42.910:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_24.stderrout.log
+Starting Jetty: STARTED Jetty Sun 24 Nov 2013 18:50:05 GMT
+2013-11-24 18:50:06.136:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_24.stderrout.log
+Starting Jetty: STARTED Jetty Sun 24 Nov 2013 19:10:07 GMT
+2013-11-24 19:10:08.403:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_24.stderrout.log
+Starting Jetty: STARTED Jetty Sun 24 Nov 2013 19:11:45 GMT
+2013-11-24 19:11:46.395:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_24.stderrout.log
+Starting Jetty: STARTED Jetty Sun 24 Nov 2013 19:16:33 GMT
+2013-11-24 19:16:34.176:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_24.stderrout.log
+Starting Jetty: STARTED Jetty Thu 28 Nov 2013 21:58:48 GMT
+2013-11-28 21:58:49.106:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_28.stderrout.log
+Starting Jetty: STARTED Jetty Thu 28 Nov 2013 22:03:22 GMT
+2013-11-28 22:03:23.188:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_28.stderrout.log
+Starting Jetty: STARTED Jetty Thu 28 Nov 2013 22:07:08 GMT
+2013-11-28 22:07:09.417:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_28.stderrout.log
+Starting Jetty: STARTED Jetty Thu 28 Nov 2013 22:09:18 GMT
+2013-11-28 22:09:18.765:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_28.stderrout.log
+Starting Jetty: STARTED Jetty Thu 28 Nov 2013 22:11:25 GMT
+2013-11-28 22:11:25.909:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_28.stderrout.log
+Starting Jetty: STARTED Jetty Thu 28 Nov 2013 22:11:47 GMT
+2013-11-28 22:11:48.048:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_28.stderrout.log
+Starting Jetty: STARTED Jetty Thu 28 Nov 2013 22:15:31 GMT
+2013-11-28 22:15:32.449:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_28.stderrout.log
+Starting Jetty: STARTED Jetty Thu 28 Nov 2013 22:17:04 GMT
+2013-11-28 22:17:04.968:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_28.stderrout.log
+Starting Jetty: STARTED Jetty Thu 28 Nov 2013 22:18:00 GMT
+2013-11-28 22:18:00.694:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_28.stderrout.log
+Starting Jetty: STARTED Jetty Thu 28 Nov 2013 23:23:07 GMT
+2013-11-28 23:23:07.856:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_28.stderrout.log
+Starting Jetty: STARTED Jetty Thu 28 Nov 2013 23:32:15 GMT
+2013-11-28 23:32:16.418:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_28.stderrout.log
+Starting Jetty: STARTED Jetty Thu 28 Nov 2013 23:33:41 GMT
+2013-11-28 23:33:42.111:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_28.stderrout.log
+Starting Jetty: STARTED Jetty Thu 28 Nov 2013 23:38:21 GMT
+2013-11-28 23:38:22.422:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_28.stderrout.log
+Starting Jetty: STARTED Jetty Thu 28 Nov 2013 23:43:53 GMT
+2013-11-28 23:43:53.691:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_28.stderrout.log
+Starting Jetty: STARTED Jetty Thu 28 Nov 2013 23:45:55 GMT
+2013-11-28 23:45:56.109:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_28.stderrout.log
+Starting Jetty: STARTED Jetty Thu 28 Nov 2013 23:55:42 GMT
+2013-11-28 23:55:42.758:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_28.stderrout.log
+Starting Jetty: STARTED Jetty Thu 28 Nov 2013 23:56:56 GMT
+2013-11-28 23:56:57.428:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_28.stderrout.log
+Starting Jetty: STARTED Jetty Fri 29 Nov 2013 00:00:00 GMT
+2013-11-29 00:00:00.621:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_29.stderrout.log
+Starting Jetty: STARTED Jetty Fri 29 Nov 2013 00:01:02 GMT
+2013-11-29 00:01:03.027:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_29.stderrout.log
+Starting Jetty: STARTED Jetty Fri 29 Nov 2013 00:08:27 GMT
+2013-11-29 00:08:28.069:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_29.stderrout.log
+Starting Jetty: STARTED Jetty Fri 29 Nov 2013 00:09:29 GMT
+2013-11-29 00:09:30.413:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_29.stderrout.log
+Starting Jetty: STARTED Jetty Fri 29 Nov 2013 00:28:01 GMT
+2013-11-29 00:28:01.520:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_29.stderrout.log
+Starting Jetty: STARTED Jetty Fri 29 Nov 2013 00:37:30 GMT
+2013-11-29 00:37:31.848:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_29.stderrout.log
+Starting Jetty: STARTED Jetty Fri 29 Nov 2013 00:57:02 GMT
+2013-11-29 00:57:03.219:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_29.stderrout.log
+Starting Jetty: STARTED Jetty Fri 29 Nov 2013 00:58:39 GMT
+2013-11-29 00:58:40.209:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_11_29.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 12:04:03 GMT
+2013-12-01 12:04:04.401:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 12:06:48 GMT
+2013-12-01 12:06:48.661:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 12:15:23 GMT
+2013-12-01 12:15:24.282:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 12:16:48 GMT
+2013-12-01 12:16:48.758:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 13:10:40 GMT
+2013-12-01 13:10:40.660:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 13:14:28 GMT
+2013-12-01 13:14:29.257:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 13:18:29 GMT
+2013-12-01 13:18:30.402:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 13:25:37 GMT
+2013-12-01 13:25:37.671:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 13:31:20 GMT
+2013-12-01 13:31:21.341:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 15:03:18 GMT
+2013-12-01 15:03:18.795:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 15:05:47 GMT
+2013-12-01 15:05:48.354:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 15:08:14 GMT
+2013-12-01 15:08:14.535:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 15:10:38 GMT
+2013-12-01 15:10:38.789:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 15:29:28 GMT
+2013-12-01 15:29:28.629:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 15:32:43 GMT
+2013-12-01 15:32:43.736:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 15:34:40 GMT
+2013-12-01 15:34:40.724:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 15:51:28 GMT
+2013-12-01 15:51:29.402:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 16:05:45 GMT
+2013-12-01 16:05:45.894:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 16:07:29 GMT
+2013-12-01 16:07:30.296:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 16:09:15 GMT
+2013-12-01 16:09:16.423:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 16:36:56 GMT
+2013-12-01 16:36:56.985:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 16:40:49 GMT
+2013-12-01 16:40:50.244:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 16:47:37 GMT
+2013-12-01 16:47:38.614:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 16:55:04 GMT
+2013-12-01 16:55:04.612:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 16:56:02 GMT
+2013-12-01 16:56:03.373:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 16:56:37 GMT
+2013-12-01 16:56:37.925:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 17:01:07 GMT
+2013-12-01 17:01:07.545:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 17:14:24 GMT
+2013-12-01 17:14:25.042:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 17:17:32 GMT
+2013-12-01 17:17:32.509:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 17:39:58 GMT
+2013-12-01 17:39:58.519:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 17:57:24 GMT
+2013-12-01 17:57:24.693:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 17:58:05 GMT
+2013-12-01 17:58:06.200:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 18:08:39 GMT
+2013-12-01 18:08:40.188:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 18:09:48 GMT
+2013-12-01 18:09:48.625:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 18:15:16 GMT
+2013-12-01 18:15:16.797:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 18:37:06 GMT
+2013-12-01 18:37:06.490:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 18:38:01 GMT
+2013-12-01 18:38:02.112:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 18:45:17 GMT
+2013-12-01 18:45:18.357:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 23:43:43 GMT
+2013-12-01 23:43:43.717:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 23:45:39 GMT
+2013-12-01 23:45:40.263:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
+Starting Jetty: STARTED Jetty Sun  1 Dec 2013 23:47:10 GMT
+2013-12-01 23:47:10.883:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2013_12_01.stderrout.log
