@@ -9,6 +9,6 @@ public class MyApplication extends ResourceConfig {
         System.out.println("MyApplication doing shit........");
         register(RequestContextFilter.class);
         register(new MyApplicationBinder());
-        packages("com.zkbizz.ddm.resource;com.zkbizz.ddm.web.filters");
+        packages("com.zkbizz.ddm.resource;com.zkbizz.ddm.web.filters;com.zkbizz.ddm.writer");
     }
 }

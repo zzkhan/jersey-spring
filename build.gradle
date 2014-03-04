@@ -6,7 +6,13 @@ repositories {
     mavenCentral()
 }
 
+configurations {
+    jaxb
+}
+
 dependencies {
+
+    jaxb group: 'com.sun.xml.bind', name: 'jaxb-xjc', version: '2.2.4-1'
 
     compile 'org.glassfish.jersey.core:jersey-server:2.4.1'
     compile 'org.glassfish.jersey.core:jersey-common:2.4.1'
@@ -40,3 +46,27 @@ dependencies {
     compile 'org.codehaus.jackson:jackson-mapper-asl:1.9.13'
     compile 'javax.enterprise:cdi-api:1.1-PRD'
 }
+
+sourceSets.main.java.srcDirs += 'src/gen/java'
+
+
+task jaxb () {
+    // output directory
+    jaxbTargetDir = file( "src/gen/java" )
+
+    // perform actions
+    doLast {
+        jaxbTargetDir.mkdirs()
+
+        ant.taskdef(name: 'xjc', classname: 'com.sun.tools.xjc.XJCTask', classpath: configurations.jaxb.asPath)
+        ant.jaxbTargetDir = jaxbTargetDir
+
+        // My-Webservice v1.10
+        ant.xjc(
+                destdir: '${jaxbTargetDir}',
+                package: 'com.zkbizz.model.jaxb',
+                schema: 'src/main/resources/xsd/po.xsd'
+        )
+    }
+}
+compileJava.dependsOn jaxb
