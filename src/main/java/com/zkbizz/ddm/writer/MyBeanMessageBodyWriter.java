@@ -31,7 +31,7 @@ public class MyBeanMessageBodyWriter implements MessageBodyWriter<PurchaseOrderT
 
     @Override
     public long getSize(PurchaseOrderType purchaseOrderType, Class<?> type, Type genericType, Annotation[] annotations, MediaType mediaType) {
-        return 0;  //To change body of implemented methods use File | Settings | File Templates.
+        return purchaseOrderType.toString().getBytes().length;
     }
 
     @Override
