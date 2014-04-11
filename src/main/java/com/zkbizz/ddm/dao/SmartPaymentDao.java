@@ -1,12 +1,8 @@
 package com.zkbizz.ddm.dao;
 
-/**
- * Created with IntelliJ IDEA.
- * User: zzkhan
- * Date: 01/12/2013
- * Time: 17:54
- * To change this template use File | Settings | File Templates.
- */
+import javax.inject.Named;
+
+@Named
 public class SmartPaymentDao implements PaymentDao {
     @Override
     public void saveToDB() {

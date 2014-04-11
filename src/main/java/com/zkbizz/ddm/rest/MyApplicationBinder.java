@@ -17,6 +17,5 @@ public class MyApplicationBinder extends AbstractBinder {
     @Override
     protected void configure() {
         System.out.println("MyApplicationBinder doing shit........");
-        bind(TransactionBo.class).to(DefaultTransactionBo.class);
     }
 }

@@ -216,3 +216,67 @@ Starting Jetty: STARTED Jetty Tue  4 Mar 2014 01:09:43 GMT
 2014-03-04 01:09:44.251:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_03_04.stderrout.log
 Starting Jetty: STARTED Jetty Tue  4 Mar 2014 01:15:58 GMT
 2014-03-04 01:15:58.556:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_03_04.stderrout.log
+Starting Jetty: STARTED Jetty Tue  4 Mar 2014 01:31:12 GMT
+2014-03-04 01:31:12.938:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_03_04.stderrout.log
+Starting Jetty: STARTED Jetty Wed  5 Mar 2014 22:27:37 GMT
+2014-03-05 22:27:38.440:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_03_05.stderrout.log
+Starting Jetty: STARTED Jetty Wed  5 Mar 2014 22:31:26 GMT
+2014-03-05 22:31:26.477:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_03_05.stderrout.log
+Starting Jetty: STARTED Jetty Wed  5 Mar 2014 22:36:02 GMT
+2014-03-05 22:36:03.436:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_03_05.stderrout.log
+Starting Jetty: STARTED Jetty Wed  5 Mar 2014 22:37:23 GMT
+2014-03-05 22:37:24.216:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_03_05.stderrout.log
+Starting Jetty: STARTED Jetty Wed  5 Mar 2014 22:38:15 GMT
+2014-03-05 22:38:15.438:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_03_05.stderrout.log
+Starting Jetty: STARTED Jetty Thu 10 Apr 2014 22:32:22 BST
+2014-04-10 22:32:23.270:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Thu 10 Apr 2014 22:55:31 BST
+2014-04-10 22:55:31.655:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Thu 10 Apr 2014 22:59:14 BST
+2014-04-10 22:59:14.927:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Thu 10 Apr 2014 23:01:09 BST
+2014-04-10 23:01:10.138:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Thu 10 Apr 2014 23:04:28 BST
+2014-04-10 23:04:29.104:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Thu 10 Apr 2014 23:05:18 BST
+2014-04-10 23:05:19.278:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Thu 10 Apr 2014 23:27:28 BST
+2014-04-10 23:27:28.576:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Thu 10 Apr 2014 23:28:08 BST
+2014-04-10 23:28:08.922:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Thu 10 Apr 2014 23:29:31 BST
+2014-04-10 23:29:32.049:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Thu 10 Apr 2014 23:30:36 BST
+2014-04-10 23:30:37.428:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Thu 10 Apr 2014 23:52:23 BST
+2014-04-10 23:52:23.902:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Thu 10 Apr 2014 23:53:38 BST
+2014-04-10 23:53:38.946:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Thu 10 Apr 2014 23:54:59 BST
+2014-04-10 23:55:00.053:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Thu 10 Apr 2014 23:55:44 BST
+2014-04-10 23:55:44.440:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Fri 11 Apr 2014 00:00:36 BST
+2014-04-11 00:00:36.481:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Fri 11 Apr 2014 00:01:44 BST
+2014-04-11 00:01:45.290:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Fri 11 Apr 2014 00:03:09 BST
+2014-04-11 00:03:09.566:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Fri 11 Apr 2014 00:15:34 BST
+2014-04-11 00:15:35.422:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Fri 11 Apr 2014 00:24:11 BST
+2014-04-11 00:24:11.939:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Fri 11 Apr 2014 00:26:46 BST
+2014-04-11 00:26:46.785:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Fri 11 Apr 2014 00:52:27 BST
+2014-04-11 00:52:28.317:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Fri 11 Apr 2014 00:54:59 BST
+2014-04-11 00:54:59.591:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_10.stderrout.log
+Starting Jetty: STARTED Jetty Fri 11 Apr 2014 01:02:11 BST
+2014-04-11 01:02:12.324:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_11.stderrout.log
+Starting Jetty: STARTED Jetty Fri 11 Apr 2014 01:02:37 BST
+2014-04-11 01:02:38.296:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_11.stderrout.log
+Starting Jetty: STARTED Jetty Fri 11 Apr 2014 01:51:19 BST
+2014-04-11 01:51:19.692:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_11.stderrout.log
+Starting Jetty: STARTED Jetty Fri 11 Apr 2014 01:56:52 BST
+2014-04-11 01:56:53.293:INFO::Redirecting stderr/stdout to /Users/zzkhan/work/projects/jersey-spring/jetty/logs/2014_04_11.stderrout.log

@@ -1,21 +1,14 @@
 package com.zkbizz.ddm.service;
 
-import com.zkbizz.ddm.annotations.Speedy;
-import com.zkbizz.ddm.dao.PaymentDao;
+import org.springframework.stereotype.Service;
 
 import javax.enterprise.inject.Default;
-import javax.inject.Inject;
 import javax.inject.Named;
 
 import static java.lang.String.format;
 
-@Named
+@Service
 public class DefaultTransactionBo implements TransactionBo {
-
-    @Inject
-    @Default
-    PaymentDao paymentDao;
-
 
     @Override
     public void save() {

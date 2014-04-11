@@ -1,5 +1,8 @@
 package com.zkbizz.ddm.dao;
 
+import javax.inject.Named;
+
+@Named
 public class BasicPaymentDao implements PaymentDao {
     @Override
     public void saveToDB() {

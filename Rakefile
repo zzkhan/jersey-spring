@@ -6,10 +6,10 @@ $current_dir=Dir.pwd()
 
 task :build_and_deploy do
   puts "****** starting build and deploy... ******"
-  stop_jetty
+  stop_tomcat
   build_deployables
-  copy_deployables_to_jetty
-  start_jetty
+  copy_deployables_to_tomcat
+  start_tomcat
   puts "****** build and deploy is complete. ******"
 end
 
@@ -64,6 +64,8 @@ def stop_tomcat
   puts "****** stopping tomcat ******"
   Dir.chdir($tomcat_target_dir)
   sh "./bin/shutdown.sh"
+  FileUtils.rm_rf 'webapps/jersey-spring'
+  FileUtils.rm 'webapps/jersey-spring.war'
   Dir.chdir($current_dir)
   puts "****** done ******"
 end

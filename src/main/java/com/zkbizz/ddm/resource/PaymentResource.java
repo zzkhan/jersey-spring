@@ -1,5 +1,12 @@
 package com.zkbizz.ddm.resource;
 
+import com.zkbizz.ddm.annotations.Compress;
+import com.zkbizz.ddm.annotations.Speedy;
+import com.zkbizz.ddm.data.SampleEntity;
+import com.zkbizz.ddm.service.TransactionBo;
+import com.zkbizz.ddm.service.XmlInjestor;
+import com.zkbizz.model.jaxb.PurchaseOrderType;
+
 import javax.annotation.PostConstruct;
 import javax.inject.Inject;
 import javax.inject.Named;
@@ -10,15 +17,6 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
-
-import com.zkbizz.ddm.annotations.Compress;
-import com.zkbizz.ddm.annotations.Speedy;
-import com.zkbizz.ddm.data.SampleEntity;
-import com.zkbizz.ddm.service.TransactionBo;
-import com.zkbizz.ddm.service.XmlInjestor;
-import com.zkbizz.model.jaxb.PurchaseOrderType;
-import org.springframework.beans.factory.annotation.Qualifier;
-
 import java.util.Date;
 
 @Named
@@ -26,19 +24,20 @@ import java.util.Date;
 @Path("/payment")
 public class PaymentResource {
 
-//    TransactionBo transactionBo;
-
     @Inject
-    public PaymentResource() {
-        System.out.println("PaymentResource created.........");
+    @Speedy
+    TransactionBo transactionBo;
+
+//    public PaymentResource( TransactionBo transactionBo) {
+//        System.out.println("PaymentResource created.........");
 //        this.transactionBo = transactionBo;
-    }
+//    }
 
     @GET
     @Path("/save")
     @Produces({"application/json","application/xml"})
     public PurchaseOrderType savePayment() {
-//        transactionBo.save();
+        transactionBo.save();
         String result = "response from GET";
         SampleEntity entity = new SampleEntity(1L,"Zahid","Uncompressed Khan");
         PurchaseOrderType injest = new XmlInjestor().injest();
